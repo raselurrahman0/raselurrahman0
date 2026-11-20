@@ -1,128 +1,26 @@
-<!-- Profile README: Rasel Ur Rahman -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:1B3A5C,100:2A7AB8&height=230&section=header&text=Rasel%20Ur%20Rahman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Secure%20Web%20Apps%20%7C%20Networking%20%26%20Linux&descAlignY=58&descSize=17" alt="Rasel Ur Rahman" />
-</p>
+<!-- Profile README: Rasel Ur Rahman --> <p align="center"> <img src="assets/banner.png" alt="Rasel Ur Rahman | Full-Stack Developer" width="100%" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=2A7AB8&center=true&vCenter=true&width=900&height=40&lines=Full-Stack+Apps+with+Django+%2B+React;Secure+Auth%3A+JWT+%7C+Google+OAuth+%7C+2FA;CSE+Student+%40+Varendra+University;Open+to+Developer+%26+Tech+Support+Roles" alt="Typing" /> </p> <p align="center"> <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2A7AB8?style=for-the-badge&labelColor=0B1F3A" alt="Open to work" /> <img src="https://img.shields.io/badge/BASED%20IN-RAJSHAHI%2C%20BD-1B3A5C?style=for-the-badge&labelColor=0B1F3A" alt="Rajshahi, Bangladesh" /> <img src="https://img.shields.io/badge/B.Sc.%20CSE-JUNE%202027-2A5C8A?style=for-the-badge&labelColor=0B1F3A" alt="B.Sc. CSE" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/raselurrahman/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0B1F3A" alt="LinkedIn" /></a> <a href="https://raselurrahman0.github.io/Protfolio-website/"><img src="https://img.shields.io/badge/Portfolio-View%20Work-2A7AB8?style=for-the-badge&labelColor=0B1F3A" alt="Portfolio" /></a> <a href="mailto:raselurrahman1@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-1B3A5C?style=for-the-badge&labelColor=0B1F3A" alt="Email" /></a> </p>
+⚡ 30-Second Snapshot
+Quick Facts	Details
+🎯 Role	Software Developer · Management Software · Technical Support
+🧱 Core stack	Django · Django REST Framework · FastAPI · React · MySQL
+🔐 Strength	Secure authentication (JWT, Google OAuth, Two-Factor Auth)
+🌐 Also good at	Networking (TCP/IP, VLAN, Routing) · Linux (Ubuntu) · Shell scripting
+🔬 Researching	Privacy leakage in RAG (Retrieval-Augmented Generation) systems
+🤝 Soft skills	Communication · Teamwork · Critical Thinking · Problem Solving · Time Management
+🏅 Certified	Full Stack Web Development, Ostad (2026)
+🛠️ Tech Stack
+<p align="center"><b>Languages</b></p> <table align="center"><tr><td align="center" width="96"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" /><br/><sub><b>Python</b></sub></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++" /><br/><sub><b>C++</b></sub></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML" /><br/><sub><b>HTML</b></sub></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" /><br/><sub><b>CSS</b></sub></td></tr></table> <p align="center"><b>Frameworks & Libraries</b></p> <table align="center"><tr><td align="center" width="96"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" height="48" alt="Django" /><br/><sub><b>Django</b></sub></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI" /><br/><sub><b>FastAPI</b></sub></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" /><br/><sub><b>React</b></sub></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux&theme=dark" width="48" height="48" alt="RTK Query" /><br/><sub><b>RTK Query</b></sub></td></tr></table> <p align="center"><b>Database & Tools</b></p> <table align="center"><tr><td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" /><br/><sub><b>MySQL</b></sub></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" /><br/><sub><b>Git</b></sub></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" /><br/><sub><b>GitHub</b></sub></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" /><br/><sub><b>VS Code</b></sub></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" width="48" height="48" alt="MATLAB" /><br/><sub><b>MATLAB</b></sub></td></tr></table> <p align="center"><b>Systems & OS</b></p> <table align="center"><tr><td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux" /><br/><sub><b>Linux</b></sub></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="48" height="48" alt="Ubuntu" /><br/><sub><b>Ubuntu</b></sub></td><td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="Shell Script" /><br/><sub><b>Shell Script</b></sub></td></tr></table> <p align="center"><b>APIs, Security & Networking</b></p> <p align="center"> <img src="https://img.shields.io/badge/Django%20REST%20Framework-1B3A5C?style=flat-square" alt="DRF" /> <img src="https://img.shields.io/badge/REST%20API-1B3A5C?style=flat-square" alt="REST API" /> <img src="https://img.shields.io/badge/JWT%20Auth-1B3A5C?style=flat-square" alt="JWT" /> <img src="https://img.shields.io/badge/Google%20OAuth-1B3A5C?style=flat-square" alt="Google OAuth" /> <img src="https://img.shields.io/badge/Two--Factor%20Auth-1B3A5C?style=flat-square" alt="2FA" /> <img src="https://img.shields.io/badge/TCP%2FIP-2A5C8A?style=flat-square" alt="TCP/IP" /> <img src="https://img.shields.io/badge/DNS%20%C2%B7%20DHCP-2A5C8A?style=flat-square" alt="DNS DHCP" /> <img src="https://img.shields.io/badge/VLAN%20%C2%B7%20Subnetting-2A5C8A?style=flat-square" alt="VLAN" /> <img src="https://img.shields.io/badge/Static%20%26%20Dynamic%20Routing-2A5C8A?style=flat-square" alt="Routing" /> <img src="https://img.shields.io/badge/FFT%20%C2%B7%20Signal%20Processing-2A7AB8?style=flat-square" alt="FFT" /> </p>
+🚀 Featured Projects
+<table> <tr> <td width="50%" valign="top"> <h3>🎓 Devport</h3> <p>Course marketplace where <b>students buy courses online</b> through payments and <b>teachers publish their own</b>. Fully responsive.</p> <!-- Add repo/live links: <a href="REPO_URL">Code</a> · <a href="LIVE_URL">Live</a> --> </td> <td width="50%" valign="top"> <h3>🩺 Medical Report Analyzer</h3> <p>AI-assisted web app that <b>analyzes medical reports</b>, built within the time limit at the <b>AI Launchpad Hackathon</b>.</p> <!-- Add repo/live links --> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🔐 Full-Stack User Management System</h3> <p><b>Django REST Framework + React (RTK Query).</b> Registration, login, Google OAuth, password recovery, two-factor authentication and account deletion.</p> <!-- Add repo/live links --> </td> <td width="50%" valign="top"> <h3>🌉 FFT Bridge Vibration Analyzer</h3> <p><b>MATLAB/Simulink.</b> FFT, low-pass filtering and spectrum analysis to find a bridge's dominant vibration frequencies.</p> <!-- Add repo link --> </td> </tr> </table> <p align="center"> <a href="https://raselurrahman0.github.io/Protfolio-website/"><b>🌐 See all projects on my portfolio →</b></a> </p>
+🔭 Currently
+🛡️ Enterprise RAG Privacy Research: how sensitive data leaks from RAG systems and how to prevent it
+🌱 Going deeper into web application security, networking and Linux security
+🧱 Building more full-stack projects with clean APIs and secure login flows
+🧑‍🤝‍🧑 Beyond Code
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=2A7AB8&center=true&vCenter=true&width=900&height=40&lines=Full-Stack+Apps+with+Django+%2B+React;Secure+Auth%3A+JWT+%7C+Google+OAuth+%7C+2FA;CSE+Student+%40+Varendra+University;Open+to+Developer+%26+Tech+Support+Roles" alt="Typing" />
-</p>
+🛡️ Founding Member, VUNC (Networking & Cyber Security Club) · 🔬 Member, VURC (Research Club) · ♟️ Chess rating 1400 · 🗣️ Bangla (Native), English (Professional)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2A7AB8?style=for-the-badge&labelColor=0B1F3A" alt="Open to work" />
-  <img src="https://img.shields.io/badge/BASED%20IN-RAJSHAHI%2C%20BD-1B3A5C?style=for-the-badge&labelColor=0B1F3A" alt="Rajshahi, Bangladesh" />
-  <img src="https://img.shields.io/badge/B.Sc.%20CSE-JUNE%202027-2A5C8A?style=for-the-badge&labelColor=0B1F3A" alt="B.Sc. CSE" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/raselurrahman/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0B1F3A" alt="LinkedIn" /></a>
-  <a href="https://raselurrahman0.github.io/Protfolio-website/"><img src="https://img.shields.io/badge/Portfolio-View%20Work-2A7AB8?style=for-the-badge&labelColor=0B1F3A" alt="Portfolio" /></a>
-  <a href="mailto:raselurrahman1@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-1B3A5C?style=for-the-badge&labelColor=0B1F3A" alt="Email" /></a>
-</p>
-
----
-
-## ⚡ 30-Second Snapshot
-
-| Quick Facts | Details |
-|---|---|
-| 🎯 **Role** | Software Developer · Management Software · Technical Support |
-| 🧱 **Core stack** | Django · Django REST Framework · FastAPI · React · MySQL |
-| 🔐 **Strength** | Secure authentication (JWT, Google OAuth, Two-Factor Auth) |
-| 🌐 **Also good at** | Networking (TCP/IP, VLAN, Routing) · Linux (Ubuntu) · Shell scripting |
-| 🔬 **Researching** | Privacy leakage in RAG (Retrieval-Augmented Generation) systems |
-| 🏅 **Certified** | Full Stack Web Development, Ostad (2026) |
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,redux,cpp,html,css,mysql&theme=dark" alt="Development" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,vscode,matlab&theme=dark" alt="Tools" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REST%20APIs-1B3A5C?style=flat-square" />
-  <img src="https://img.shields.io/badge/JWT-1B3A5C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Google%20OAuth-1B3A5C?style=flat-square" />
-  <img src="https://img.shields.io/badge/2FA-1B3A5C?style=flat-square" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-2A5C8A?style=flat-square" />
-  <img src="https://img.shields.io/badge/DNS%20%C2%B7%20DHCP-2A5C8A?style=flat-square" />
-  <img src="https://img.shields.io/badge/VLAN%20%C2%B7%20Routing-2A5C8A?style=flat-square" />
-  <img src="https://img.shields.io/badge/FFT%20%C2%B7%20Signal%20Processing-2A7AB8?style=flat-square" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Devport</h3>
-      <p>Course marketplace where <b>students buy courses online</b> through payments and <b>teachers publish their own</b>. Fully responsive.</p>
-      <!-- Add repo/live links: <a href="REPO_URL">Code</a> · <a href="LIVE_URL">Live</a> -->
-    </td>
-    <td width="50%" valign="top">
-      <h3>🩺 Medical Report Analyzer</h3>
-      <p>AI-assisted web app that <b>analyzes medical reports</b>, built within the time limit at the <b>AI Launchpad Hackathon</b>.</p>
-      <!-- Add repo/live links -->
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔐 Full-Stack User Management System</h3>
-      <p><b>Django REST Framework + React (RTK Query).</b> Registration, login, Google OAuth, password recovery, two-factor authentication and account deletion.</p>
-      <!-- Add repo/live links -->
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌉 FFT Bridge Vibration Analyzer</h3>
-      <p><b>MATLAB/Simulink.</b> FFT, low-pass filtering and spectrum analysis to find a bridge's dominant vibration frequencies.</p>
-      <!-- Add repo link -->
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://raselurrahman0.github.io/Protfolio-website/"><b>🌐 See all projects on my portfolio →</b></a>
-</p>
-
----
-
-## 🔭 Currently
-
-- 🛡️ **Enterprise RAG Privacy Research**: how sensitive data leaks from RAG systems and how to prevent it
-- 🌱 Going deeper into **web application security**, **networking** and **Linux security**
-- 🧱 Building more full-stack projects with clean APIs and secure login flows
-
-## 🧑‍🤝‍🧑 Beyond Code
-
-🛡️ Founding Member, **VUNC** (Networking & Cyber Security Club) · 🔬 Member, **VURC** (Research Club) · ♟️ Chess rating **1400** · 🗣️ Bangla (Native), English (Professional)
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=raselurrahman0&show_icons=true&theme=transparent&title_color=2A7AB8&icon_color=2A7AB8&text_color=8b949e&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raselurrahman0&layout=compact&theme=transparent&title_color=2A7AB8&text_color=8b949e&hide_border=true" alt="Top languages" />
-</p>
-
----
-
-## 📫 Let's Work Together
-
-<p align="center">
-  Looking for a <b>Software Developer</b>, <b>Management Software</b> or <b>Technical Support</b> role where I can build reliable software and help users get unstuck.
-</p>
-
-<p align="center">
-  <a href="mailto:raselurrahman1@gmail.com"><img src="https://img.shields.io/badge/Email-raselurrahman1%40gmail.com-1B3A5C?style=for-the-badge&labelColor=0B1F3A" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/raselurrahman/"><img src="https://img.shields.io/badge/LinkedIn-raselurrahman-0A66C2?style=for-the-badge&labelColor=0B1F3A" alt="LinkedIn" /></a>
-  <a href="https://raselurrahman0.github.io/Protfolio-website/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2A7AB8?style=for-the-badge&labelColor=0B1F3A" alt="Portfolio" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A7AB8,50:1B3A5C,100:0B1F3A&height=100&section=footer" alt="footer" />
-</p>
+📊 GitHub Activity
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=raselurrahman0&show_icons=true&theme=transparent&title_color=2A7AB8&icon_color=2A7AB8&text_color=8b949e&hide_border=true" alt="GitHub stats" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raselurrahman0&layout=compact&theme=transparent&title_color=2A7AB8&text_color=8b949e&hide_border=true" alt="Top languages" /> </p>
+📫 Let's Work Together
+<p align="center"> Looking for a <b>Software Developer</b>, <b>Management Software</b> or <b>Technical Support</b> role where I can build reliable software and help users get unstuck. </p> <table align="center"> <tr> <td align="center">📧 <b>Email</b></td> <td><a href="mailto:raselurrahman1@gmail.com">raselurrahman1@gmail.com</a></td> </tr> <tr> <td align="center">📞 <b>Phone</b></td> <td><a href="tel:+8801742767562">+880 1742-767562</a></td> </tr> <tr> <td align="center">📍 <b>Location</b></td> <td>Rajshahi, Bangladesh 🇧🇩</td> </tr> <tr> <td align="center">💼 <b>LinkedIn</b></td> <td><a href="https://www.linkedin.com/in/raselurrahman/">linkedin.com/in/raselurrahman</a></td> </tr> <tr> <td align="center">🌐 <b>Portfolio</b></td> <td><a href="https://raselurrahman0.github.io/Protfolio-website/">raselurrahman0.github.io/Protfolio-website</a></td> </tr> </table> <p align="center"> <a href="mailto:raselurrahman1@gmail.com"><img src="https://img.shields.io/badge/Email-Send%20a%20Message-1B3A5C?style=for-the-badge&labelColor=0B1F3A" alt="Email" /></a> <a href="tel:+8801742767562"><img src="https://img.shields.io/badge/Call-%2B8801742767562-2A5C8A?style=for-the-badge&labelColor=0B1F3A" alt="Call" /></a> <a href="https://www.linkedin.com/in/raselurrahman/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0B1F3A" alt="LinkedIn" /></a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A7AB8,50:1B3A5C,100:0B1F3A&height=100&section=footer" alt="footer" /> </p>
