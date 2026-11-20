@@ -1,10 +1,10 @@
 <!-- Profile README: Rasel Ur Rahman -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1F3A,50:1B3A5C,100:2A7AB8&height=240&section=header&text=Rasel%20Ur%20Rahman&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Full-Stack%20Developer%20%C2%B7%20Secure%20Web%20Apps%20%C2%B7%20Networking%20%26%20Linux&descAlignY=64&descSize=17" alt="Rasel Ur Rahman" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:1B3A5C,100:2A7AB8&height=230&section=header&text=Rasel%20Ur%20Rahman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Secure%20Web%20Apps%20%7C%20Networking%20%26%20Linux&descAlignY=58&descSize=17" alt="Rasel Ur Rahman" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=2A7AB8&center=true&vCenter=true&width=640&lines=I+build+full-stack+apps+with+Django+%2B+React;Secure+auth%3A+JWT+%C2%B7+Google+OAuth+%C2%B7+2FA;CSE+%40+Varendra+University+%C2%B7+Ostad+Certified;Open+to+Software+Developer+%26+Tech+Support+roles" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=2A7AB8&center=true&vCenter=true&width=900&height=40&lines=Full-Stack+Apps+with+Django+%2B+React;Secure+Auth%3A+JWT+%7C+Google+OAuth+%7C+2FA;CSE+Student+%40+Varendra+University;Open+to+Developer+%26+Tech+Support+Roles" alt="Typing" />
 </p>
 
 <p align="center">
@@ -14,16 +14,16 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raselurrahman/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://raselurrahman0.github.io/Protfolio-website/"><img src="https://img.shields.io/badge/Portfolio-View%20Work-2A7AB8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:raselurrahman1@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-1B3A5C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/raselurrahman/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0B1F3A" alt="LinkedIn" /></a>
+  <a href="https://raselurrahman0.github.io/Protfolio-website/"><img src="https://img.shields.io/badge/Portfolio-View%20Work-2A7AB8?style=for-the-badge&labelColor=0B1F3A" alt="Portfolio" /></a>
+  <a href="mailto:raselurrahman1@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-1B3A5C?style=for-the-badge&labelColor=0B1F3A" alt="Email" /></a>
 </p>
 
 ---
 
 ## ⚡ 30-Second Snapshot
 
-|  |  |
+| Quick Facts | Details |
 |---|---|
 | 🎯 **Role** | Software Developer · Management Software · Technical Support |
 | 🧱 **Core stack** | Django · Django REST Framework · FastAPI · React · MySQL |
@@ -118,9 +118,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:raselurrahman1@gmail.com"><img src="https://img.shields.io/badge/raselurrahman1%40gmail.com-0B1F3A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/raselurrahman/"><img src="https://img.shields.io/badge/in%2Fraselurrahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://raselurrahman0.github.io/Protfolio-website/"><img src="https://img.shields.io/badge/Portfolio-2A7AB8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:raselurrahman1@gmail.com"><img src="https://img.shields.io/badge/Email-raselurrahman1%40gmail.com-1B3A5C?style=for-the-badge&labelColor=0B1F3A" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/raselurrahman/"><img src="https://img.shields.io/badge/LinkedIn-raselurrahman-0A66C2?style=for-the-badge&labelColor=0B1F3A" alt="LinkedIn" /></a>
+  <a href="https://raselurrahman0.github.io/Protfolio-website/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2A7AB8?style=for-the-badge&labelColor=0B1F3A" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
